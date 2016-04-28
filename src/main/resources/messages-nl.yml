@@ -1,14 +1,14 @@
 messages-version: 6
 
 commands.join.description: 'Ga in de wachtrij voor het volgende spel.'
-commands.join.confirmation: '&3Je bent nu in de wachtrij'
-commands.join.already-queued: '&4Je bent al in de wachtrij.'
+commands.join.confirmation: '&3Je zit nu in de wachtrij'
+commands.join.already-queued: '&4Je zit al in de wachtrij.'
 commands.join.in-game: '&4Je kan nu niet joinen, je bent al in een game.'
 
 commands.leave.description: 'Verlaat je huidige wachtrij.'
-commands.leave.removed-from-queue: '&3Je bent niet meer in de wachtrij.'
+commands.leave.removed-from-queue: '&3Je zit niet meer in de wachtrij.'
 commands.leave.removed-from-game: '&3Je hebt de game verlaten.'
-commands.leave.not-in-any: '&4Je bent niet in de wachtrij.'
+commands.leave.not-in-any: '&4Je zit niet in een wachtrij.'
 
 commands.setlobby.description: 'Bepaal de positie van de lobby'
 commands.setlobby.confirmation: '&3De lobby is nu naar je huidige plaats verzet.'
